@@ -1,0 +1,260 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+#formspacer {
+	height:1px;
+}
+
+
+#total-display{
+	color:#6FABBF;
+	font-size:20px;
+}
+
+
+
+
+
+input[type=submit] {
+	font-size:12px;
+ 
+}
+
+
+
+
+input[type="text"], textarea, input[type="password"] {
+	padding: 2px;
+	background: #f9f9f9;
+	border: 1px solid #ccc;
+	box-shadow: inset 1px 1px 1px rgba(0, 0, 0, 0.1);
+	-moz-box-shadow: inset 1px 1px 1px rgba(0, 0, 0, 0.1);
+	-webkit-box-shadow: inset 1px 1px 1px rgba(0, 0, 0, 0.1);
+}
+
+
+input[type="text"].noshadow, textarea.noshadow, input[type="password"].noshadow {
+	padding: 2px;
+	background: #f9f9f9;
+	border: 1px solid #ccc;
+	box-shadow: none;
+	-moz-box-shadow: none;
+	-webkit-box-shadow: none;
+}
+
+
+
+#content input, #content textarea {
+	color:#6c6c64;
+	font-size: 13px;
+	line-height: 20px;
+}
+
+
+.entry-content input {
+	margin: 0 0 10px 0;
+}
+
+
+#form search dl {
+	margin:0px 0px 0px 0px;
+}
+
+dl {
+	margin:0px 0px 0px 0px;
+} m,
+dt {
+	font-weight: bold;
+	float:left;
+	width:35%;
+	padding:0px;
+}
+dd {
+	margin-bottom: 0px;
+	padding:0px;
+
+	
+}
+
+#content dt, #content th {
+	color: #4F4F4F;
+}
+
+
+#content table {
+	
+	text-align: left;
+	margin: 0 -1px 24px 0;
+	width: 100%;
+}
+#content tr th, #content thead th {
+
+	font-size: 11px;
+	line-height: 18px;
+	padding: 0px 0px;
+	padding-top:2px;
+	padding-bottom:2px;
+}
+
+#main tr th, #main thead th {
+
+	font-size: 11px;
+	line-height: 18px;
+	padding: 0px 0px;
+	padding-top:5px;
+	padding-bottom:5px;
+	padding-right:6px;
+}
+
+#content tr td {
+	
+	padding: 0px 0px;
+}
+#content tr.odd td {
+	background: #F2F7FC;
+}
+
+
+
+.entry-content input.file, .entry-content input.button {
+	margin-right: 24px;
+}
+.entry-content label {
+	font-size: 11px;
+}
+.entry-content select {
+	margin: 0 0 24px 0;
+}
+
+
+
+
+
+
+
+
+#registration h2 {
+	margin-top:15px;
+}
+
+
+
+#registration h3 {
+    border-bottom: 1px solid #AAA;
+    font-weight: normal;
+    padding: 0 0 0 0 ;
+	margin-top:23px;
+	margin-bottom:1px;
+	color:#019648;
+}
+
+#registration dd label,
+#registration h2 label {
+    padding-left: 0;
+}
+
+#registration dd,
+#registration dt,
+#registration ol,
+#registration p,
+#registration td td,
+#registration td th,
+#registration ul {
+    font-size: 75%;
+}
+#registration table,
+#registration tr,
+#registration tr th,
+#registration tr td {
+    padding: 0;
+    margin: 0;
+    border: 0 none;
+	margin-top:3px;
+	margin-bottom:3px;
+
+}
+
+#registration dd,
+#registration ol,
+#registration p,
+#registration ul {
+    line-height: 1.5;
+}
+
+#registration dt {
+    clear: left;
+    float: left;
+    font-weight: bold;
+    padding: 0.25em 0;
+}
+#registration dd {
+    /* border-bottom: 1px solid #DDD; */
+    line-height: normal !important;
+    margin: 0;
+    padding: 0.25em 0 0.25em 10em;
+}
+
+#registration dl.full dd {
+    margin-bottom: 1em;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 0px;
+    width: 100%;
+}
+#registration span.required {
+    color: #F00;
+}
+#registration span.required + label {
+    padding-left: 0;
+}
+
+
+
+#registration input.fill:focus,
+#registration select.fill:focus,
+#registration textarea.fill:focus {
+    background: #FFD;
+}
+
+#registration input.w12h,
+#registration select.w12h,
+#registration textarea.w12h {
+width: 3.25em !important;
+}
+#registration p {
+    margin: 0 0 1em;
+}
+
+#total-display {
+    color: #AAA;
+    font-size: 175% !important;
+    margin: 0;
+}
+
+#registration em {
+	font-size:11px;
+	font-style:normal;
+}
+
+#registration tr .workshop{
+	clear:both;
+	background-color:#3F6;
+	
+}
+
+#registration a:link, #registration a:visited, #registration a:active,#registration a:hover   {
+   font-size:11px; 
+   color:#f00;
+   text-decoration:underline;
+}
+
+
+
+	
+
+

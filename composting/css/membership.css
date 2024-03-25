@@ -1,0 +1,87 @@
+@charset "utf-8";
+/* CSS Document */
+
+#member-box-wrapper {
+	border:1px solid #e5e5d0;
+}
+#member-box {
+	background-color:#f8f8f0;
+	color:#333;
+	border:1px solid #fff;
+	padding:10px;
+}
+#member-box-title {
+	font-size:16px;
+
+
+	
+}
+
+
+
+#member-line{
+	height:1px;
+	border-top:1px solid #e5e5d0;
+	background-color:#fff;
+	margin-bottom:8px;
+	margin-top:3px;
+
+}
+
+
+#member-top {
+	font-size:16px;
+}
+#member-top ul li {
+	width:90px;
+	display: inline-block;
+}
+#member-top ul li a {
+	font-size:12px;
+	width:73px;
+	display: inline-block;
+	background-image: url(../images/arrow-small.png);
+	background-repeat:no-repeat;
+	background-position:0px 4px;
+	padding-left:17px;
+	color:#333;
+}
+#member-top ul li a:hover {
+	background-color:#fff;
+}
+
+
+#member-box-title-bottom {
+	font-size:15px;
+		
+}
+
+#member-bottom {
+	font-size:16px;
+}
+#member-bottom ul li {
+	
+	display:block;
+}
+#member-bottom ul li a {
+	font-size:12px;
+
+	display:block;
+	background-image: url(../images/arrow-small.png);
+	background-repeat:no-repeat;
+	background-position:0px 4px;
+	padding-left:17px;
+	color:#333;
+	line-height:19px;
+}
+#member-bottom ul li a:hover {
+	background-color:#fff;
+}
+
+
+
+
+
+
+
+

@@ -1,0 +1,131 @@
+/*
+
+#registration * {
+   
+}
+
+#registration h2 {
+	margin-bottom:4px;
+	margin-top:4px;
+}
+#registration h3 {
+    margin-bottom: 0.25em;
+    
+}
+#registration h3 span {
+     border-bottom: 1px solid #AAA;
+    font-weight: normal;
+    padding: 0 0.25em;
+	padding-top:8px;
+	margin-bottom:1px;
+}
+
+#registration dd label,
+#registration h2 label {
+    padding-left: 0;
+}
+
+#registration dd,
+#registration dt,
+#registration ol,
+#registration p,
+#registration td td,
+#registration td th,
+#registration ul {
+    font-size: 75%;
+}
+#registration table,
+#registration tr,
+#registration tr th,
+#registration tr td {
+    padding: 0;
+    margin: 0;
+    border: 0 none;
+	margin-top:3px;
+	margin-bottom:3px;
+
+}
+
+#registration dd,
+#registration ol,
+#registration p,
+#registration ul {
+    line-height: 1.5;
+}
+
+#registration dt {
+    clear: left;
+    float: left;
+    font-weight: bold;
+    padding: 0.25em 0;
+}
+
+
+
+
+#registration dd {
+    
+	border-bottom: 1px solid #DDD; 
+	
+	
+    line-height: normal !important;
+    margin: 0;
+    padding: 0.25em 0 0.25em 10em;
+}
+
+#registration dl.full dd {
+    margin-bottom: 1em;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 0px;
+    width: 100%;
+}
+#registration span.required {
+    color: #F00;
+}
+#registration span.required + label {
+    padding-left: 0;
+}
+
+#registration label {
+    font-weight: bold;
+    padding-left: 0.7em;
+}
+
+#registration input {
+    margin: 0 3px;
+}
+#registration input.fill,
+#registration select.fill,
+#registration textarea.fill {
+    border: 1px solid;
+    border-color: #AAA #CCC #CCC #AAA;
+    font: small arial, helvetica, sans-serif;
+    width: 26em;
+    margin:0;
+}
+#registration input.fill:focus,
+#registration select.fill:focus,
+#registration textarea.fill:focus {
+    background: #FFD;
+}
+
+#registration input.w12h,
+#registration select.w12h,
+#registration textarea.w12h {
+width: 3.25em !important;
+}
+#registration p {
+    margin: 0 0 1em;
+}
+
+#total-display {
+    color: #AAA;
+    font-size: 175% !important;
+    margin: 0;
+}
+*/
