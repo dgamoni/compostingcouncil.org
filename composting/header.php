@@ -126,7 +126,7 @@ if( function_exists( 'uberMenu_direct' ) ){
   <img  style="margin-left:-5px;"src="<?php bloginfo('template_url'); ?>/images/middle-bar-25.png" width="996" height="129">
   <?php } elseif (is_page(array(11167,13235,13397,9629,22079,22723,24585)) ) {	?>
   <img  style="margin-left:-5px;"src="<?php bloginfo('template_url'); ?>/images/middle-bar-conference-2016.png" width="996" height="129">
- <?php } elseif (is_page(array(6291,175,166,6707,23844,25538,23223,23869,16000,21630,26258,26081,26340,26405,26558,26597,27076,27335,27376,27409,27452,27733,27837)) ) {	?>
+ <?php } elseif (is_page(array(6291,175,166,6707,23844,25538,23223,23869,21630,26258,26081,26340,26405,26558,26597,27076,27335,27376,27409,27452,27733,27837)) ) {	?>
   <img  style="margin-left:-5px;"src="<?php bloginfo('template_url'); ?>/images/middle-bar-conference-2017.png" width="996" height="129">
 <?php } elseif (is_page(array(27911,22,5,28162,16889,28613,7769,24,21057,179,28,177,21676,28523,21065,6525,25421,173,13200,220,7427)) ) {	?>
   <img  style="margin-left:-5px;"src="<?php bloginfo('template_url'); ?>/images/middle-bar-conference-2018.png" width="996" height="129">

@@ -31,7 +31,7 @@ get_header(); ?>
   </div>
 
 
-test
+
 	<?php // here an example for all custom type posts:
 
 	switch ($post->post_type) {
@@ -166,7 +166,6 @@ test
   
   
   <div>		
-		// wordpress function that loads the comments template "comments.php" 
 <?php comments_template( '/includes/comments.php'); ?>
 
 </div><!--end inner_box-->

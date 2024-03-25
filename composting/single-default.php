@@ -22,7 +22,7 @@
     <div id="post">
       <div class="entry-content">
 	
-	default sinlgle page
+	default single page
 
 		<?php the_content(); ?>
 	
@@ -33,7 +33,7 @@
         
         
           <div>		
-		// wordpress function that loads the comments template "comments.php" 
+		
 <?php comments_template( '/includes/comments.php'); ?>
 
 </div><!--end inner_box-->
